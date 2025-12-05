@@ -56,6 +56,8 @@ void swapr(int *x, int *y){
 }
 
 int main(){
+    printf("KIRAN MP\n");
+printf("REG NO:212224230123\n");
     int a = 10, b = 20;
 
     printf("Before swapv: a = %d, b = %d\n", a, b);
@@ -68,10 +70,10 @@ int main(){
 
     return 0;
 }
-
 ```
 # Output:
-<img width="383" height="283" alt="image" src="https://github.com/user-attachments/assets/8cfd5f1e-673f-43bd-8a7e-148d46812332" />
+<img width="467" height="415" alt="image" src="https://github.com/user-attachments/assets/b5e97071-a9a1-4dc2-ab8f-a7012da87086" />
+
 
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -121,6 +123,8 @@ int fibo(int x){
 }
 
 int main(){
+    printf("KIRAN MP\n");
+printf("REG NO:212224230123\n");
     int n, i;
     scanf("%d", &n);
 
@@ -132,10 +136,10 @@ int main(){
 
     return 0;
 }
-
 ```
 # Output:
-<img width="422" height="217" alt="image" src="https://github.com/user-attachments/assets/1288b2f6-77e4-4a0d-a0c3-a707d336af15" />
+<img width="447" height="376" alt="image" src="https://github.com/user-attachments/assets/9e0971ca-d450-4683-8214-e608bd22d2c6" />
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -192,6 +196,8 @@ void printEvenOdd(int cur, int limit){
 }
 
 int main(){
+    printf("KIRAN MP\n");
+printf("REG NO:212224230123\n");
     int lowerLimit, upperLimit;
     scanf("%d", &lowerLimit);
     scanf("%d", &upperLimit);
@@ -205,7 +211,8 @@ int main(){
 
 ```
 # Output:
-<img width="811" height="242" alt="image" src="https://github.com/user-attachments/assets/135891b9-3b76-4a4c-8f8d-3ec776a2d01c" />
+<img width="459" height="422" alt="image" src="https://github.com/user-attachments/assets/cbdcdc8e-9d98-4829-8211-e9b6aa70bad1" />
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -253,6 +260,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 #include<stdlib.h>
 
 int main(){
+        printf("KIRAN MP\n");
+printf("REG NO:212224230123\n");
     int *ptr, n, i, sum = 0;
 
     scanf("%d", &n);
@@ -276,10 +285,10 @@ int main(){
     free(ptr);
     return 0;
 }
-
 ```
 # Output:
-<img width="436" height="202" alt="image" src="https://github.com/user-attachments/assets/ed705319-dcb2-48fb-8ed0-5d27cfdcf95e" />
+<img width="435" height="344" alt="image" src="https://github.com/user-attachments/assets/2c611b6e-5530-4aa7-84e5-20f6344e8134" />
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -327,6 +336,8 @@ void displayArray(int *arr, int size){
 }
 
 int main(){
+        printf("KIRAN MP\n");
+printf("REG NO:212224230123\n");
     int arr[5], i;
 
     for(i = 0; i < 5; i++){
@@ -338,10 +349,10 @@ int main(){
 
     return 0;
 }
-
 ```
 # Output:
-<img width="410" height="221" alt="image" src="https://github.com/user-attachments/assets/34eb540c-6d48-433e-be01-fc37c698caa3" />
+<img width="453" height="386" alt="image" src="https://github.com/user-attachments/assets/7778efa3-e670-46f7-9f1b-7b9ff2c32b7c" />
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
